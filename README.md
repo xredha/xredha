@@ -12,7 +12,7 @@ Source [Link](https://giphy.com/gifs/cheezburger-excited-cat-UuIom9saJP5eg/media
 - Learn React JS
 - Learn Laravel
 
-## :star::boom:
+## :sparkles::boom:
 ```javascript
 while (laptopOn) {
   weLearn();
