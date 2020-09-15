@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Galih :wave::fire:
 
-<!--
-**xredha/xredha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/UuIom9saJP5eg/giphy.gif)
+<br>
+Source [Link](https://giphy.com/gifs/cheezburger-excited-cat-UuIom9saJP5eg/media)
 
-Here are some ideas to get you started:
+## :star: Quotes : 
+> Perfect Practice Makes Perfect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :round_pushpin: On Progress :
+- https://github.com/florinpop17/app-ideas
+- Learn React JS
+- Learn Laravel
+
+## :star::boom:
+```javascript
+while (laptopOn) {
+  weLearn();
+}
+```
