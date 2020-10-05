@@ -10,7 +10,6 @@ Source [Link](https://giphy.com/gifs/cheezburger-excited-cat-UuIom9saJP5eg/media
 ## :round_pushpin: On Progress :
 - https://github.com/florinpop17/app-ideas
 - Learn React JS
-- Learn Laravel
 
 ## :sparkles::boom:
 ```javascript
