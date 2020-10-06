@@ -13,7 +13,7 @@ Source [Link](https://giphy.com/gifs/cheezburger-excited-cat-UuIom9saJP5eg/media
 
 ## :sparkles::boom:
 ```javascript
-while (laptopOn) {
-  weLearn();
+while(laptopOn) {
+  iLearn();
 }
 ```
