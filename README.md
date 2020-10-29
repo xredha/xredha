@@ -8,12 +8,4 @@ Source [Link](https://giphy.com/gifs/cheezburger-excited-cat-UuIom9saJP5eg/media
 > Perfect Practice Makes Perfect
 
 ## :round_pushpin: On Progress :
-- https://github.com/florinpop17/app-ideas
-- Learn React JS
-
-## :sparkles::boom:
-```javascript
-while(laptopOn) {
-  iLearn();
-}
-```
+- JavaScript Weird Parts
