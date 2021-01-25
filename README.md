@@ -8,5 +8,4 @@ Source [Link](https://giphy.com/gifs/cheezburger-excited-cat-UuIom9saJP5eg/media
 > Perfect Practice Makes Perfect
 
 ## :round_pushpin: On Progress :
-- Menjadi Front-End Web Developer Expert ([Link](https://www.dicoding.com/academies/219))
 - JavaScript Weird Parts
