@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/xredha?tab=repositories)
 
-- 💬 I'm natively speak Indonesian and fluently speak english.
+- 💬 I'm natively speak Indonesian and still learning to speak english.
 
 - 📫 You can reach me at my instagram <a href="https://www.instagram.com/galih_redha" target="blank">@galih_redha</a>
 
