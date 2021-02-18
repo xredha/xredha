@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **personal project (still training)**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Vue JS**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/xredha?tab=repositories)
 
