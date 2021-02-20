@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Galih Redha Saputra</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xredha&label=Profile%20views&color=50b883&style=flat" alt="xredha" /> </p>
 
