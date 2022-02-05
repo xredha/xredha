@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   </div>
-<h3 align="left">You can reach me in here :</h3>
+<h3 align="left">You can reach me in here</h3>
   <div align="center">
     <a href="mailto:galihredhas@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -50,7 +50,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xredha" alt="xredha" /></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xredha&theme=monokai" />
 </details>
-<details><summary>Programming languages</summary>
+<details><summary>Programming Languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xredha&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="xredha" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xredha&theme=github_dark" alt="xredha" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xredha&theme=github_dark" alt="xredha" />
