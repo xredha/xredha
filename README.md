@@ -41,7 +41,7 @@
   </div>
 <details><summary>Primary Game</summary>
   <a href=https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights&hl=in&gl=US" target="_blank">Arknights (EN)</a>
-  <p>| <b>ID : shiro#4040</b> | One and only :smile:</p>
+  <p>| <b>ID : shiro#4040</b> | The One And Only :smile:</p>
   <img src="images/arknights-profile.jpg" />
 </details>
 <details><summary>Stats Github</summary>
