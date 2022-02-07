@@ -42,7 +42,7 @@
 <details><summary>Primary Game</summary>
   <a href=https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights&hl=in&gl=US" target="_blank">Arknights (EN)</a>
   <p>| <b>ID : shiro#4040</b> | The One And Only My Game :smile:</p>
-  <img src="images/arknights-profile.jpg" />
+  <img src="images/arknights-profile.gif" />
 </details>
 <details><summary>Stats Github</summary>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xredha&theme=monokai" />
